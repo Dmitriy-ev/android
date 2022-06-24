@@ -1,4 +1,4 @@
-1. [activity_lifecycle](activity_lifecycle)
+1. [activity_lifecycle_app](activity_lifecycle)
 
 
 

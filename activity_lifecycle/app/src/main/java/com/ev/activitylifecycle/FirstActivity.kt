@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.ev.activitylifecycle.databinding.ActivityFirstBinding
-import com.ev.activitylifecycle.databinding.ActivitySecondBinding
 
 class FirstActivity : AppCompatActivity() {
     private lateinit var binding: ActivityFirstBinding

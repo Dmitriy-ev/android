@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="leroy_merlin">#7bb51c</color>
+    <color name="leroy_gray">#D7F2F3F5</color>
+    <color name="gray">#97F2F3F5</color>
+
 </resources>

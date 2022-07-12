@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_home_chat"
+        android:title="Чаты"
+        android:visible="true" />
+    <item
+        android:id="@+id/popular"
+        android:icon="@drawable/ic_home_popular"
+        android:title="Популярное" />
+    <item
+        android:id="@+id/apps"
+        android:icon="@drawable/ic_home_apps"
+        android:title="Приложения" />
+
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/ic_home_music"
+        android:title="Музыка" />
+</menu>
